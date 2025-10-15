@@ -20,3 +20,5 @@ Launching a New EC2 Instance
 ​Navigate to EC2: Go to the EC2 Dashboard and select Instances.
 ​Start Launch: Click on Launch instances.
 
+
+<img src="C:\Users\SHUBHAM DESAI\OneDrive\Pictures\Screenshots\Screenshot 2025-09-24 155305.png" width="300">
