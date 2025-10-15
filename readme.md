@@ -1,3 +1,16 @@
-Task-1 - Website Hosting
+Project-1
 
-first we have to go at ec2 dash board
+Deployed My First Website on AWS EC2 Instance!
+
+Through this project, I learned:
+
+1.How to launch and configure an EC2 instance
+
+2.How to connect via SSH using a .pem key
+
+3.How to install and start Apache (httpd) on Amazon Linux
+
+4.How to host a static website using Bootstrap template
+
+5.How to configure security groups for public access
+
